@@ -1,8 +1,7 @@
 # Dependencies
-markdown:         redcarpet
-redcarpet:
-  extensions:     [strikethrough,smart,with_toc_data]
-highlighter:      pygments
+markdown:       kramdown
+extensions:     [strikethrough,smart,with_toc_data]
+highlighter:    rouge
 
 # Permalinks
 permalink:        /posts/:title/
@@ -29,20 +28,20 @@ author:
 
 # Social Integration
 social:
-  twitter:        
-  disqus:         
-  addthis_pubid:  
+  twitter:
+  disqus:
+  addthis_pubid:
 
 # Google Analytics Configuration
 # Proxy response must be in JSON and should have the fields - ga:pagePath, ga:pageview
 google_analytics:
-  tracking_id:      
-  super_proxy_url:  
+  tracking_id:
+  super_proxy_url:
 
 # Github
 github:
-  repo:           
-  feedback:       
+  repo:
+  feedback:
 
 # Version Info
 version:          0.0.0
