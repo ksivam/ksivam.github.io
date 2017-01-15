@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>=testtr</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-01-15T12:36:42-08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Me</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>erre</title>
+   <link href="http://localhost:4000/posts/erre/"/>
+   <updated>2017-01-15T04:36:36-08:00</updated>
+   <id>http://localhost:4000/posts/erre</id>
+   <content type="html">
+     
+
+     &lt;br&gt;
+
+     &lt;a href="http://localhost:4000/posts/erre/"&gt;
+         Read entire post...
+     &lt;/a&gt;
+
+   </content>
+ </entry>
+ 
+ <entry>
+   <title>Jekyll Starter!</title>
+   <link href="http://localhost:4000/posts/hello-jekyll-starter/"/>
+   <updated>2014-08-15T01:07:00-07:00</updated>
+   <id>http://localhost:4000/posts/hello-jekyll-starter</id>
+   <content type="html">
+     &lt;p&gt;This is a Jekyll Starter project, based on &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;Lanyon&lt;/a&gt;, to quickly set up a blog using Jekyll. This bootstrap project includes social integration using &lt;a href=&quot;https://www.addthis.com&quot;&gt;AddThis&lt;/a&gt; for sharing and author following across many social media platforms. Integration with Google Analytics is also built in, using &lt;a href=&quot;https://developers.google.com/analytics/solutions/google-analytics-super-proxy&quot;&gt;Google Analytics superProxy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This project also includes tag visualization in each post, and as a consolidated tag based archive.&lt;/p&gt;
+
+&lt;p&gt;A grunt based build is included, which currently supports CSS minification and merging - for faster loading of the blog.&lt;/p&gt;
+
+
+     &lt;br&gt;
+
+     &lt;a href="http://localhost:4000/posts/hello-jekyll-starter/"&gt;
+         Read entire post...
+     &lt;/a&gt;
+
+   </content>
+ </entry>
+ 
+
+</feed>
