@@ -1,4 +1,4 @@
-### =testtr
+### Jekyll Starter
 ==================
 
-ee
+A starter project for Jekyll

@@ -2,9 +2,9 @@
   "name": "myjekyllblog",
   "version": "0.0.1",
   "authors": [
-    "Me"
+    "Krishna Sadasivam"
   ],
-  "description": "ee",
+  "description": "A starter project for Jekyll",
   "keywords": [
     "jekyll",
     "blog"

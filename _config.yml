@@ -7,10 +7,10 @@ highlighter:    rouge
 permalink:        /posts/:title/
 
 # User Configuration
-title:            =testtr
-tagline:          'ee'
-description:      'ee'
-url:              ee
+title:            Jekyll Starter
+tagline:          'A starter project for Jekyll'
+description:      'Engineer'
+url:              https://ksivam.github.io/
 baseurl:          '/'
 paginate:         3
 excerpt_separator: '<br>'
@@ -23,25 +23,25 @@ gems:
 
 # Author Info
 author:
-  name:           'Me'
-  url:            ee
+  name:           'Krishna Sadasivam'
+  url:            https://ksivam.github.io/
 
 # Social Integration
 social:
-  twitter:
-  disqus:
-  addthis_pubid:
+  twitter:        ksadasivam
+  disqus:         ksivam-github-io
+  addthis_pubid:  ra-587bffea6c68282b
 
 # Google Analytics Configuration
 # Proxy response must be in JSON and should have the fields - ga:pagePath, ga:pageview
 google_analytics:
-  tracking_id:
-  super_proxy_url:
+  tracking_id:      UA-90420739-1
+  super_proxy_url:  
 
 # Github
 github:
-  repo:
-  feedback:
+  repo:           https://github.com/ksivam/ksivam.github.io
+  feedback:       https://github.com/ksivam/ksivam.github.io/issues
 
 # Version Info
 version:          0.0.0

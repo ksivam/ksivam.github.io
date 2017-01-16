@@ -1,10 +1,10 @@
 {
   "name": "myjekyllblog",
   "version": "0.0.1",
-  "description": "ee",
+  "description": "A starter project for Jekyll",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/ksivam/ksivam.github.io"
   },
   "keywords": [
     "blog",

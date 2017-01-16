@@ -1,34 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>=testtr</title>
+ <title>Jekyll Starter</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2017-01-15T14:15:05-08:00</updated>
+ <updated>2017-01-15T16:04:02-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
-   <name>Me</name>
+   <name>Krishna Sadasivam</name>
    <email></email>
  </author>
 
- 
- <entry>
-   <title>erre</title>
-   <link href="http://localhost:4000/posts/erre/"/>
-   <updated>2017-01-15T04:36:36-08:00</updated>
-   <id>http://localhost:4000/posts/erre</id>
-   <content type="html">
-     
-
-
-     &lt;br&gt;
-
-     &lt;a href="http://localhost:4000/posts/erre/"&gt;
-         Read entire post...
-     &lt;/a&gt;
-
-   </content>
- </entry>
  
  <entry>
    <title>Jekyll Starter!</title>
