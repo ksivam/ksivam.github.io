@@ -34,7 +34,7 @@ github_username:  ksivam
 linkedin_username: ksivam
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
