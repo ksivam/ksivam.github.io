@@ -184,4 +184,4 @@ order by TotalAmountOfOrders desc
 The above sql queries clearly demonstrate the usage of group by, order by, inner join and top clause.
 
 Also, i have found the below venn diagram to be super useful while constructing the join clause.
-![SQL join venn diagram](/images/sql_joins_venn.jpg)
+![SQL join venn diagram](/assets/images/sql_joins_venn.jpg)
