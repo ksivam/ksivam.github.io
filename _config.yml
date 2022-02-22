@@ -1,9 +1,0 @@
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-#  - INDEX.md
-  - README.md
-  - 2016-12-15-working-with-sql-queries.md
