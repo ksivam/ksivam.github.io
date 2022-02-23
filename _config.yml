@@ -42,13 +42,13 @@ plugins:
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: coderay
-kramdown:
-  auto_ids: true
-  syntax_highlighter: coderay
-  syntax_highlighter_opts:
-    line_numbers: table
-    bold_every: 5
-    wrap: span
+#kramdown:
+#  auto_ids: true
+#  syntax_highlighter: coderay
+#  syntax_highlighter_opts:
+#    line_numbers: table
+#    bold_every: 5
+#    wrap: span
 
 # Exclude from processing.
 # The following items will not be processed, by default.
