@@ -1,6 +1,11 @@
 ---
-layout: post title:  "Java Function Chaining"
-date:   2022-02-21 18:46:46 -0800 categories: blogging
+layout: post 
+title: "Java Function Chaining"
+date: 2022-02-21 18:46:46 -0800 
+categories: blogging
+tags: java
+comments: true
+analytics: true
 ---
 
 Functional programming, being a subset of declarative programming, offers several constructs and `function chaining` is
