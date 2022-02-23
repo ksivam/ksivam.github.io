@@ -6,13 +6,14 @@ categories: blogging
 tags: sql
 comments: true
 analytics: true
+excerpt_separator: <!--more-->
 ---
 
 In many of my projects I extensively use simple sql queries to work with data. Many of these queries are related to grouping the data, joining the tables or finding the top n results.
 
 In this [repository](https://github.com/ksivam/sqlQueries) blog, I am going to present few simple customer/salesperson tables and write some sql queries show casing the usage of group by, join clause.
 
-<br>
+<!--more-->
 
 ### Salesperson  
 

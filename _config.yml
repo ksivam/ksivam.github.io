@@ -38,10 +38,17 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+disqus:
+  shortname: ksivam
+
+
 # Markdown Options
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
-highlighter: coderay
+highlighter: rouge
 #kramdown:
 #  auto_ids: true
 #  syntax_highlighter: coderay

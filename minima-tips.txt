@@ -1,0 +1,2 @@
+https://github.com/jsanz/gh-pages-minima-starter
+https://bartjolling.github.io/blog/2018/11/24/customizing-jekyll-minima-github-pages.html

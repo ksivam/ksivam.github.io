@@ -6,6 +6,7 @@ categories: blogging
 tags: java
 comments: true
 analytics: true
+excerpt_separator: <!--more-->
 ---
 
 Functional programming, being a subset of declarative programming, offers several constructs and `function chaining` is
@@ -13,6 +14,8 @@ one of them.
 
 **Java function chaining** leads to very concise and readable programs, and we are going to see an example of using the
 function chaining construct.
+
+<!--more-->
 
 Let's take a trivial example of a `Producer` and `Consumer`. We need to first start the producer to produce some data,
 followed by the consumer to consume the data.
