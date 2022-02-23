@@ -1,7 +1,7 @@
 ---
 layout: post 
 title: "Java Function Chaining"
-date: 2022-02-21 18:46:46 -0800 
+date: 2022-02-21 
 categories: blogging
 tags: java
 comments: true

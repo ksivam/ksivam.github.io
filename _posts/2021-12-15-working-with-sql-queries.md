@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Working with SQL queries"
-date: 2021-12-15 08:07:00
+date: 2021-12-15
 categories: blogging
 tags: sql
 comments: true
