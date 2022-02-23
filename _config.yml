@@ -37,13 +37,16 @@ linkedin_username: ksivam
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+
+paginate: 5
+paginate_path: posts/page:num/
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
 
 disqus:
   shortname: ksivam
-
 
 # Markdown Options
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
