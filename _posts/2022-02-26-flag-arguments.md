@@ -1,9 +1,9 @@
 ---
 layout: post 
-title: "Java Function Chaining"
-date: 2022-02-21 
+title: "Flag Arguments"
+date: 2022-02-26 
 categories: blogging
-tags: java
+tags: programming
 comments: true
 analytics: true
 excerpt_separator: <!--more-->
