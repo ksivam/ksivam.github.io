@@ -22,8 +22,7 @@ series of activities, and these activities are encapsulated in a `Activity` clas
 option to simulate the migration activities without doing the actual migration.
 
 ```java
-public class Workflow {
-
+class Workflow {
   void run(User user, boolean dryRun) {
     Activity activity = newActivityFor(user);
 
@@ -119,7 +118,7 @@ class ActivityImp extends Activity {
 With the introduction of `polymorphims` and `factory` pattern, the `Workflow` class can be refactored as below
 
 ```java
-public class Workflow {
+class Workflow {
 
   void run(User user, boolean dryRun) {
     Activity activity = ActivityFactory.create(user, dryRun);
