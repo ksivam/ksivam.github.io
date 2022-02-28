@@ -22,14 +22,6 @@ series of activities, and these activities are encapsulated in a `Activity` clas
 option to simulate the migration activities without doing the actual migration.
 
 ```java
-interface Activity {
-  boolean userExist();
-
-  Status migrateUser();
-
-  updateUserMigrationStatus(Status status);
-}
-
 public class Workflow {
 
   void run(User user, boolean dryRun) {
